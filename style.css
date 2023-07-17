@@ -6,7 +6,7 @@
     color:beige;
     font:Helvetica;
     text-align: center;
-    background-color:blueviolet;
+    background-color:olivedrab;
 }
 
 img{
@@ -21,6 +21,10 @@ h1{
     text-align: center;
 }
 
+h2{
+    color:beige;
+    text-align: center;
+}
 
 li{
     font-size:x-large;
